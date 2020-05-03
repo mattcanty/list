@@ -1,7 +1,11 @@
-# Generic Repo Boilerplate
+# List
 
 ## About
 
-This is my personal starting block for any new repo. I tend to prefer a lean
-setup. Favouring opinionated tooling which lets me take care of businness
-alone.
+This is a list app. It's for making lists. Lists is all it does.
+
+It does not:
+
+- Let you track things, like a to-do.
+- Let you manage your team
+- Add sub lists to your lists
