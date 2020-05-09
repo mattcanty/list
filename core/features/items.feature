@@ -1,5 +1,5 @@
 Feature: items
-    Into a list I want to add and remove items
+    Items should be able to be added to lists
 
     Scenario: adding an item to an empty list
         Given a list called "Shopping" is added

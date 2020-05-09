@@ -1,7 +1,6 @@
 Feature: list
-    In order to add items to a list
-    As a user
-    I need to be able to add lists
+    Lists are the main feature
+    They can be added and they can be removed
 
     Scenario: Make a new list
         Given there are 0 lists
